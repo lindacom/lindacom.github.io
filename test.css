@@ -41,3 +41,22 @@ body {
 .header nav li a:hover {
  background-color: #111;
 }
+
+.container {
+  max-width: 900px;
+  padding: 0 1.5em;
+  margin: 0 auto;
+}
+
+/* CSS Variables */
+
+:root {
+  --primary: #ddd;
+  --dark: #333;
+  --light: #fff;
+  --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+  --darkgrey: #CFDBD5;
+  --lightgrey: #E8EDDF;
+  --yellow: #F5CB5C;
+  --black: #242423;
+  --blackgrey: #333533;
